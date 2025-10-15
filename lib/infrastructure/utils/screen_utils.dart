@@ -14,7 +14,8 @@ class ScreenUtil {
 
   // Font Sizes
   static double get heading1 => _scale(24);
-  static double get heading2 => _scale(20);
+  static double get headingBig => _scale(30);
+  static double get headingSmall => _scale(20);
   static double get subheading => _scale(18);
   static double get body => _scale(16);
   static double get caption => _scale(14);

@@ -28,7 +28,7 @@ class SplashScreen extends StatelessWidget {
                     viewModel.heading,
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
-                      fontSize: GlobalConstants.heading1,
+                      fontSize: GlobalConstants.heading,
                     ),
                   ),
                 ),
